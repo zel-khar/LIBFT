@@ -1,0 +1,5 @@
+
+*.swp
+*.zwc
+.zsh_history
+.zshrc
